@@ -24,7 +24,7 @@ and to use it as a small portfolio where I can showcase my QA projects and updat
 - Understanding how even simple sites can reflect personal quality and detail
 
 ## 🌐 Live site
-[Visit the website](https://lahavmauda.github.io/All-About-me/)
+[Visit the website](https://lahavmauda.github.io/All-About-Me/)
 
 ---
 **License:** [MIT License](./LICENSE) © 2025 Lahav Mauda  
